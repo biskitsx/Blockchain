@@ -1,4 +1,4 @@
-module github.com/biskitsx/Blockchain
+module github.com/biskitsx/Cryptography
 
 go 1.19
 
